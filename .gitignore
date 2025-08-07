@@ -1,0 +1,15 @@
+/container
+
+# /experiment/runs
+
+/experiment/yolov8n.pt
+/experiment/tmp9y3n4mx4.png
+
+.ipynb_checkpoints/
+
+.jupyter/
+
+/experiment/examples/yolo_data/images
+/experiment/examples/yolo_data/labels
+
+/service/.env

@@ -1,0 +1,6 @@
+names:
+- cheerios
+- mini_wheats
+nc: 2
+train: images/train
+val: images/train

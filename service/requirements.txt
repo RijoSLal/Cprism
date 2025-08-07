@@ -1,0 +1,7 @@
+uvicorn==0.35.0
+fastapi==0.116.1
+python-multipart 
+ultralytics==8.3.175
+mlflow==2.20.1 
+dagshub==0.6.2
+dotenv
