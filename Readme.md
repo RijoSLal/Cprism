@@ -101,7 +101,7 @@ Use this as a base for integrating the detection service into any external appli
 
 This experiment currently uses **2 product categories**, located in:
 
-📁 [`experiment/examples/classes`]
+📁 `experiment/examples/classes`
 
 
 ---
