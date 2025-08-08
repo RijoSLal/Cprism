@@ -1,0 +1,4 @@
+[core]
+    remote = cprism
+['remote "cprism"']
+    url = https://dagshub.com/api/v1/repo-buckets/s3/slalrijo2005
