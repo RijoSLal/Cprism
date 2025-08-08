@@ -2,7 +2,7 @@
 
 This project implements a **one-shot simulated object detection service, detect product from supermarket shelves**, where a limited number of individual product images are used to generate large-scale, high-quality annotated datasets by matching these products against various background images. 
 
-Using this simulation strategy, you can **rapidly scale your dataset** for object detection tasks even with only a few real product images making it ideal for low-data environments or rapid prototyping.
+Using this simulation strategy by generating synthetic data, you can **rapidly scale your dataset** for object detection tasks even with only a few real product images making it ideal for low-data environments or rapid prototyping.
 
 ---
 
